@@ -1,5 +1,16 @@
 {
   "$schema": "https://turborepo.org/schema.json",
+  "packages": {
+    "@mono/config-release-it": {
+      "release": {
+        "plugins": {
+          "npm": {
+            "publish": false
+          }
+        }
+      }
+    }
+  },
   "pipeline": {
     "start": {
       "cache": false
