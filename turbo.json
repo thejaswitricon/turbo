@@ -3,11 +3,7 @@
   "packages": {
     "@mono/config-release-it": {
       "release": {
-        "plugins": {
-          "npm": {
-            "publish": false
-          }
-        }
+        "command": "echo 'Skipping release-it command for @mono/config-release-it package'"
       }
     }
   },
