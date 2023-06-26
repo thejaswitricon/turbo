@@ -16,6 +16,7 @@
     "prepare": "husky install",
     "release": "turbo release --concurrency=1"
   },
+  "gitRepository": "https://github.com/thejaswitricon/turbo.git",
   "devDependencies": {
     "@commitlint/cli": "17.6.1",
     "@commitlint/config-conventional": "17.6.1",
