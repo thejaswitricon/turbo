@@ -20,7 +20,7 @@
     "@commitlint/cli": "17.6.1",
     "@commitlint/config-conventional": "17.6.1",
     "husky": "8.0.3",
-    "turbo": "1.9.3"
+    "turbo": "^1.10.6"
   },
   "packageManager": "yarn@1.22.19"
 }
