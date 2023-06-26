@@ -22,10 +22,10 @@ module.exports = {
     requireCommits: true,
     requireCommitsFail: false,
   },
-//   npm: {
-//     publish: false,
-//     versionArgs: ['--workspaces false'],
-//   },
+  npm: {
+    publish: false,
+    versionArgs: ['--workspaces false'],
+  },
   github: {
     release: true,
     releaseName: `${packageName}-v${version}`,
