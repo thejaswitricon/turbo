@@ -1,12 +1,5 @@
 {
   "$schema": "https://turborepo.org/schema.json",
-  "packages": {
-    "@mono/config-release-it": {
-      "release": {
-        "command": "echo 'Skipping release-it command for @mono/config-release-it package'"
-      }
-    }
-  },
   "pipeline": {
     "start": {
       "cache": false
