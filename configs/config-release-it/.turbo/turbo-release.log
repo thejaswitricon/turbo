@@ -1,7 +1,0 @@
-$ release-it --ci
-ERROR Working dir must be clean.
-Please stage and commit your changes.
-Documentation: https://git.io/release-it-git
-
-error Command failed with exit code 1.
-info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
