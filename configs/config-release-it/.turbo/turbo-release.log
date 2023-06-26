@@ -1,3 +1,4 @@
+yarn run v1.22.19
 $ release-it --ci
 ERROR Working dir must be clean.
 Please stage and commit your changes.
