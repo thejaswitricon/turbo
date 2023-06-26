@@ -11,9 +11,7 @@
     "libs/lib-c",
     "configs/config-release-it"
   ],
-  "npm": {
-    "publish": false
-  },
+  
   "scripts": {
     "start": "turbo start",
     "prepare": "husky install",
