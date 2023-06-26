@@ -1,6 +1,16 @@
 $ release-it --ci
-ERROR Not authenticated with npm. Please `npm login` and try again.
-Documentation: https://git.io/release-it-npm
-
+ReferenceError: packageName is not defined
+    at Object.<anonymous> (/home/tricon/Documents/turbo-mono-release/turbo/configs/config-release-it/.release-it.js:3:15)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at module.exports (/home/tricon/Documents/turbo-mono-release/turbo/node_modules/import-fresh/index.js:32:59)
+    at loadJs (/home/tricon/Documents/turbo-mono-release/turbo/configs/config-release-it/node_modules/cosmiconfig/dist/loaders.js:16:18)
+    at ExplorerSync.loadFileContentSync (/home/tricon/Documents/turbo-mono-release/turbo/configs/config-release-it/node_modules/cosmiconfig/dist/ExplorerSync.js:90:14)
+    at ExplorerSync.createCosmiconfigResultSync (/home/tricon/Documents/turbo-mono-release/turbo/configs/config-release-it/node_modules/cosmiconfig/dist/ExplorerSync.js:98:30) {
+  filepath: '/home/tricon/Documents/turbo-mono-release/turbo/configs/config-release-it/.release-it.js'
+}
 error Command failed with exit code 1.
 info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
