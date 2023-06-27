@@ -6,9 +6,6 @@
     "start": "node index.js",
     "release": "release-it --ci"
   },
-  "dependencies": {
-    "@mono/lib-a": "*"
-  },
   "devDependencies": {
     "@mono/config-release-it": "*"
   }
