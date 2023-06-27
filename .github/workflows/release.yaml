@@ -3,7 +3,7 @@ name: Release
 on:
   workflow_dispatch:
   push:
-    branches: mater
+    branches: master
 
 permissions: write-all
 jobs:
@@ -58,4 +58,4 @@ jobs:
       - name: Release
         run: yarn release --cache-dir=.turbo
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_SECRET }}
