@@ -1,5 +1,12 @@
 
 
+## [0.2.0](https://github.com/thejaswitricon/turbo/compare/@mono/lib-c-v0.1.0...@mono/lib-c-v0.2.0) (2023-06-27)
+
+
+### Features
+
+* **root:** initial ([71ddc67](https://github.com/thejaswitricon/turbo/commit/71ddc6712f8132d87e656802b711f340b28022e0))
+
 ## 0.1.0 (2023-06-27)
 
 
