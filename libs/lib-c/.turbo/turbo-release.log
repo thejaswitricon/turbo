@@ -1,6 +1,0 @@
-$ release-it --ci
-ERROR Not authenticated with npm. Please `npm login` and try again.
-Documentation: https://git.io/release-it-npm
-
-error Command failed with exit code 1.
-info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
