@@ -1,5 +1,12 @@
 
 
+## [0.2.0](https://github.com/thejaswitricon/turbo/compare/@mono/app-b-v0.1.0...@mono/app-b-v0.2.0) (2023-06-27)
+
+
+### Features
+
+* **root:** initial ([6b39b43](https://github.com/thejaswitricon/turbo/commit/6b39b43aa86e21d932ac334a146ddcbd41876869))
+
 ## 0.1.0 (2023-06-27)
 
 
