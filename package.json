@@ -8,8 +8,7 @@
     "apps/app-b",
     "libs/lib-a",
     "libs/lib-b",
-    "libs/lib-c",
-    "configs/config-release-it"
+    "libs/lib-c"
   ],
   "scripts": {
     "start": "turbo start",
