@@ -1,5 +1,13 @@
 
 
+## [0.2.0](https://github.com/thejaswitricon/turbo/compare/@mono/config-release-it-v0.1.0...@mono/config-release-it-v0.2.0) (2023-06-27)
+
+
+### Features
+
+* **root:** initial ([346b27f](https://github.com/thejaswitricon/turbo/commit/346b27faa7e562e56a674b9e5338248019f29a95))
+* **root:** initial ([60b928a](https://github.com/thejaswitricon/turbo/commit/60b928ae90bb709066bf87fc1bf54f107ac97553))
+
 ## 0.1.0 (2023-06-27)
 
 
