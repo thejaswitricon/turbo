@@ -11,7 +11,6 @@
     "libs/lib-c",
     "configs/config-release-it"
   ],
-  
   "scripts": {
     "start": "turbo start",
     "prepare": "husky install",
@@ -24,5 +23,8 @@
     "husky": "8.0.3",
     "turbo": "^1.10.6"
   },
-  "packageManager": "yarn@1.22.19"
+  "packageManager": "yarn@1.22.19",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
