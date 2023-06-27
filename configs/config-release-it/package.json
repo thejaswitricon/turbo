@@ -9,7 +9,6 @@
   "devDependencies": {
     "@b12k/mvm": "0.0.10",
     "@release-it/conventional-changelog": "5.1.1",
-    "@mono/config-release-it": "*",
     "release-it": "15.10.1"
   }
 }
